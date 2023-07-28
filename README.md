@@ -10,3 +10,5 @@ To reproduce the main result:
 3. Activate this repository's Project file by entering pkg mode with `]` then running `activate .`
 4. Still in pkg mode, install dependencies with: `instantiate`
 5. Run the main script with: `include("constructMultiscaleWheat.jl")`
+
+Unfortunately, one of the dependencies, MiniQhull, requires Linux.
