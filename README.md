@@ -5,7 +5,7 @@ This repository is a [julia](https://julialang.org) package complementing the ar
 (insert citation here)
 
 To reproduce the main result:
-1. Install julia (note that this package was tested on julia 1.8.5)
+1. Install julia (note that this package was tested on julia 1.8.5, but should work with later versions)
 2. Clone this repository to an empty directory, and run julia there
 3. Activate this repository's Project file by entering pkg mode with `]` then running `activate .`
 4. Still in pkg mode, install dependencies with: `instantiate`
